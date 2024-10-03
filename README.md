@@ -1,5 +1,5 @@
-GAME336-Quake-dmPrisonBreak
-By Thomas West
+dmPrisonBreak
+by Thomas West
 
 
 Multiplayer Quake DM map
