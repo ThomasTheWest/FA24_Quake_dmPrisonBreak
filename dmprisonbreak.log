@@ -1,0 +1,85 @@
+---- qbsp / ericw-tools 2.0.0-alpha8-26-ged62ec10 ----
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+Input file: C:\Programs\Quake-Level-Design-Starter-Kit\maps\dmPrisonBreak\dmprisonbreak-compile.map
+Output file: C:\Programs\Quake-Level-Design-Starter-Kit\maps\dmPrisonBreak\dmprisonbreak.bsp
+
+INFO: using built-in palette.
+      2 entities
+      3 unique textures
+     13 texinfos
+    120 unique planes
+
+INFO: world extents calculated to 2792 units
+    111 brushes
+    666 sides
+
+            0 texture frames added
+WARNING: unable to find texture skip
+Processing hull 0...
+    111 SOLID brushes
+    111 brushes total
+    666 visible sides
+INFO: calculating BSP for 111 brushes with 666 sides
+    111 brushes
+    666 visible faces
+    757 nodes
+    551 expensive split nodes
+    206 mid-split nodes
+    758 leaves
+    415 EMPTY leafs
+    343 SOLID leafs
+    758 leafs total
+    15 max tree height
+    12 avg tree height
+    3,011 tree portals
+WARNING: Reached occupant "info_player_start" at (0 0 40), no filling performed.
+Leak file written to dmprisonbreak.pts
+            5 portals written to dmprisonbreak.leak.prt
+    3,011 tree portals
+    1,205 sides visible
+    1,205 makefaces
+      229 merged
+      331 subdivided
+    8 nodes pruned
+    415 EMPTY leafs
+    335 SOLID leafs
+    750 leafs total
+    15 max tree height
+    12 avg tree height
+      746 edges added by tjunctions
+    1,307 faces optimized through MWT
+    3,360 triangles computed from MWT
+      225 faces created via optimization of MWT triangles
+    3,476 edges
+    1,532 faces
+Processing hull 1...
+WARNING: Reached occupant "info_player_start" at (0 0 40), no filling performed.
+Processing hull 2...
+WARNING: Reached occupant "info_player_start" at (0 0 40), no filling performed.
+WARNING: worldspawn at 0 0 0 has long value for key wad (length 191 >= 127)
+Writing dmprisonbreak.bsp as Quake BSP bsp29
+Wrote dmprisonbreak.bsp
+
+count   lump name    byte size 
+      1 models               64
+    132 planes             2640
+   1422 vertexes          17064
+    749 nodes             17976
+     12 texinfos            480
+   1532 faces             30640
+   8555 clipnodes         68440
+    416 leafs             11648
+   1776 marksurfaces       3552
+   3477 edges             13908
+   6424 surfedges         25696
+      3 textures          10976
+        lightdata             0
+        visdata               0
+        entdata             303
+
+0.121s seconds elapsed
+
+
