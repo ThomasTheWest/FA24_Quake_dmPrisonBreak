@@ -8,9 +8,9 @@ Output file: C:\Programs\Quake-Level-Design-Starter-Kit\maps\dmPrisonBreak\dmpri
 
 INFO: using built-in palette.
      14 entities
-      4 unique textures
-     27 texinfos
-    386 unique planes
+      5 unique textures
+     33 texinfos
+    388 unique planes
 
 INFO: world extents calculated to 2824 units
       224 brushes
@@ -26,39 +26,39 @@ Processing hull 0...
 INFO: calculating BSP for 224 brushes with 1348 sides
       224 brushes
     1,348 visible faces
-    2,356 nodes
+    2,358 nodes
     1,665 expensive split nodes
-      691 mid-split nodes
-    2,357 leaves
+      693 mid-split nodes
+    2,359 leaves
     1,386 EMPTY leafs
-      971 SOLID leafs
-    2,357 leafs total
-    25 max tree height
+      973 SOLID leafs
+    2,359 leafs total
+    24 max tree height
     13 avg tree height
-    175 tiny portals
-    9,408 tree portals
+    188 tiny portals
+    9,409 tree portals
 WARNING: Reached occupant "info_player_start" at (-112 0 40), no filling performed.
 Leak file written to dmprisonbreak.pts
             7 portals written to dmprisonbreak.leak.prt
-    175 tiny portals
-    9,408 tree portals
-    3,742 sides visible
-    3,742 makefaces
-      389 merged
+    188 tiny portals
+    9,409 tree portals
+    3,739 sides visible
+    3,739 makefaces
+      388 merged
       938 subdivided
-    62 nodes pruned
+    63 nodes pruned
     1,386 EMPTY leafs
-      909 SOLID leafs
-    2,295 leafs total
-    25 max tree height
+      910 SOLID leafs
+    2,296 leafs total
+    24 max tree height
     13 avg tree height
          2 edges degenerated
-     2,691 edges added by tjunctions
+     2,693 edges added by tjunctions
      4,208 faces optimized through MWT
-    11,117 triangles computed from MWT
-       750 faces created via optimization of MWT triangles
-    11,509 edges
-     5,041 faces
+    11,120 triangles computed from MWT
+       751 faces created via optimization of MWT triangles
+    11,515 edges
+     5,040 faces
 Processing hull 1...
 Processing hull 2...
 WARNING: worldspawn at 0 0 0 has long value for key wad (length 191 >= 127)
@@ -67,21 +67,21 @@ Wrote dmprisonbreak.bsp
 
 count   lump name    byte size 
       1 models               64
-    552 planes            11040
-   4703 vertexes          56436
-   2294 nodes             55056
-     25 texinfos           1000
-   5041 faces            100820
+    553 planes            11060
+   4707 vertexes          56484
+   2295 nodes             55080
+     31 texinfos           1240
+   5040 faces            100800
    2701 clipnodes         21608
    1387 leafs             38836
-   5703 marksurfaces      11406
-  11510 edges             46040
-  21282 surfedges         85128
-      4 textures          32780
+   5704 marksurfaces      11408
+  11516 edges             46064
+  21281 surfedges         85124
+      5 textures          54584
         lightdata             0
         visdata               0
-        entdata            1126
+        entdata            1127
 
-0.594s seconds elapsed
+0.580s seconds elapsed
 
 
