@@ -7,58 +7,75 @@ Input file: C:\Programs\Quake-Level-Design-Starter-Kit\maps\dmPrisonBreak\dmpris
 Output file: C:\Programs\Quake-Level-Design-Starter-Kit\maps\dmPrisonBreak\dmprisonbreak.bsp
 
 INFO: using built-in palette.
-     14 entities
-      5 unique textures
-     33 texinfos
-    388 unique planes
+     10 entities
+      6 unique textures
+     36 texinfos
+    424 unique planes
 
-INFO: world extents calculated to 2824 units
-      224 brushes
-    1,348 sides
-      596 side bevels
+INFO: world extents calculated to 3008 units
+      328 brushes
+    1,941 sides
+      677 side bevels
 
             0 texture frames added
 WARNING: unable to find texture skip
 Processing hull 0...
-    224 SOLID brushes
-    224 brushes total
-    1,348 visible sides
-INFO: calculating BSP for 224 brushes with 1348 sides
-      224 brushes
-    1,348 visible faces
-    2,358 nodes
-    1,665 expensive split nodes
-      693 mid-split nodes
-    2,359 leaves
-    1,386 EMPTY leafs
-      973 SOLID leafs
-    2,359 leafs total
-    24 max tree height
+    328 SOLID brushes
+    328 brushes total
+    1,941 visible sides
+INFO: calculating BSP for 328 brushes with 1941 sides
+      328 brushes
+    1,941 visible faces
+    4,137 nodes
+    1,170 expensive split nodes
+    2,967 mid-split nodes
+    4,138 leaves
+    2,305 EMPTY leafs
+    1,833 SOLID leafs
+    4,138 leafs total
+    22 max tree height
+    15 avg tree height
+    364 tiny portals
+    15,405 tree portals
+    1,250 outside leaves
+    0 detail filled leafs
+      328 brushes
+      893 visible faces
+    1,048 non-visible faces
+    1,183 nodes
+      531 non-visible nodes
+    1,183 expensive split nodes
+    1,184 leaves
+      577 EMPTY leafs
+      607 SOLID leafs
+    1,184 leafs total
+    19 max tree height
     13 avg tree height
-    188 tiny portals
-    9,409 tree portals
-WARNING: Reached occupant "info_player_start" at (-112 0 40), no filling performed.
-Leak file written to dmprisonbreak.pts
-            7 portals written to dmprisonbreak.leak.prt
-    188 tiny portals
-    9,409 tree portals
-    3,739 sides visible
-    3,739 makefaces
-      388 merged
-      938 subdivided
-    63 nodes pruned
-    1,386 EMPTY leafs
-      910 SOLID leafs
-    2,296 leafs total
-    24 max tree height
-    13 avg tree height
-         2 edges degenerated
-     2,693 edges added by tjunctions
-     4,208 faces optimized through MWT
-    11,120 triangles computed from MWT
-       751 faces created via optimization of MWT triangles
-    11,515 edges
-     5,040 faces
+    127 tiny portals
+    5,309 tree portals
+    266 outside leaves
+    0 detail filled leafs
+    127 tiny portals
+    5,309 tree portals
+    1,644 sides visible
+    1,644 makefaces
+      434 merged
+      343 subdivided
+    573 nodes pruned
+    311 player-occupiable leaves
+    311 clusters of leaves
+    761 vis portals
+    300 SOLID leafs
+    311 EMPTY leafs
+    611 leafs total
+    17 max tree height
+    12 avg tree height
+    1,249 edges added by tjunctions
+    1,502 faces optimized through MWT
+    4,269 triangles computed from MWT
+      306 faces created via optimization of MWT triangles
+    4,109 edges
+    1,859 faces
 Processing hull 1...
 Processing hull 2...
 WARNING: worldspawn at 0 0 0 has long value for key wad (length 191 >= 127)
@@ -67,21 +84,21 @@ Wrote dmprisonbreak.bsp
 
 count   lump name    byte size 
       1 models               64
-    553 planes            11060
-   4707 vertexes          56484
-   2295 nodes             55080
-     31 texinfos           1240
-   5040 faces            100800
-   2701 clipnodes         21608
-   1387 leafs             38836
-   5704 marksurfaces      11408
-  11516 edges             46064
-  21281 surfedges         85124
-      5 textures          54584
+    630 planes            12600
+   2069 vertexes          24828
+    610 nodes             14640
+     20 texinfos            800
+   1859 faces             37180
+   2910 clipnodes         23280
+    312 leafs              8736
+   2254 marksurfaces       4508
+   4110 edges             16440
+   8038 surfedges         32152
+      6 textures          60068
         lightdata             0
         visdata               0
-        entdata            1127
+        entdata             893
 
-0.580s seconds elapsed
+1.138s seconds elapsed
 
 
