@@ -6,17 +6,17 @@
 LoadBSPFile: 'dmprisonbreak.bsp'
 BSP is version Quake BSP bsp29
 INFO: using built-in palette.
-   311 leafs
-   311 clusters
-   761 portals
+   606 leafs
+   606 clusters
+  1563 portals
 Calculating Base Vis:
 Calculating Full Vis:
 Expanding clusters...
-average leafs visible: 117
+average leafs visible: 216
 c_noclip: 0
-c_chains: 410473
-visdatasize:11595  compressed from 12129
+c_chains: 3692591
+visdatasize:42148  compressed from 46056
 Writing dmprisonbreak.bsp as Quake BSP bsp29
-0.16s elapsed
+0.89s elapsed
 
 

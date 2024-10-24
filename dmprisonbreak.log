@@ -7,75 +7,76 @@ Input file: C:\Programs\Quake-Level-Design-Starter-Kit\maps\dmPrisonBreak\dmpris
 Output file: C:\Programs\Quake-Level-Design-Starter-Kit\maps\dmPrisonBreak\dmprisonbreak.bsp
 
 INFO: using built-in palette.
-     10 entities
+     43 entities
       6 unique textures
-     36 texinfos
-    424 unique planes
+     41 texinfos
+    804 unique planes
 
 INFO: world extents calculated to 3008 units
-      328 brushes
-    1,941 sides
-      677 side bevels
+      845 brushes
+    4,902 sides
+    3,149 side bevels
 
             0 texture frames added
 WARNING: unable to find texture skip
 Processing hull 0...
-    328 SOLID brushes
-    328 brushes total
-    1,941 visible sides
-INFO: calculating BSP for 328 brushes with 1941 sides
-      328 brushes
-    1,941 visible faces
-    4,137 nodes
-    1,170 expensive split nodes
-    2,967 mid-split nodes
-    4,138 leaves
-    2,305 EMPTY leafs
-    1,833 SOLID leafs
-    4,138 leafs total
-    22 max tree height
-    15 avg tree height
-    364 tiny portals
-    15,405 tree portals
-    1,250 outside leaves
+    845 SOLID brushes
+    845 brushes total
+    4,902 visible sides
+INFO: calculating BSP for 845 brushes with 4902 sides
+      845 brushes
+    4,902 visible faces
+    8,240 nodes
+      991 expensive split nodes
+    7,249 mid-split nodes
+    8,241 leaves
+    4,431 EMPTY leafs
+    3,810 SOLID leafs
+    8,241 leafs total
+    32 max tree height
+    16 avg tree height
+    291 tiny portals
+    30,093 tree portals
+    2,043 outside leaves
     0 detail filled leafs
-      328 brushes
-      893 visible faces
-    1,048 non-visible faces
-    1,183 nodes
-      531 non-visible nodes
-    1,183 expensive split nodes
-    1,184 leaves
-      577 EMPTY leafs
-      607 SOLID leafs
-    1,184 leafs total
-    19 max tree height
+      845 brushes
+    1,905 visible faces
+    2,997 non-visible faces
+    2,776 nodes
+    1,353 non-visible nodes
+    2,776 expensive split nodes
+    2,777 leaves
+    1,304 EMPTY leafs
+    1,473 SOLID leafs
+    2,777 leafs total
+    25 max tree height
     13 avg tree height
-    127 tiny portals
-    5,309 tree portals
-    266 outside leaves
+    142 tiny portals
+    11,809 tree portals
+    698 outside leaves
     0 detail filled leafs
-    127 tiny portals
-    5,309 tree portals
-    1,644 sides visible
-    1,644 makefaces
-      434 merged
-      343 subdivided
-    573 nodes pruned
-    311 player-occupiable leaves
-    311 clusters of leaves
-    761 vis portals
-    300 SOLID leafs
-    311 EMPTY leafs
-    611 leafs total
-    17 max tree height
-    12 avg tree height
-    1,249 edges added by tjunctions
-    1,502 faces optimized through MWT
-    4,269 triangles computed from MWT
-      306 faces created via optimization of MWT triangles
-    4,109 edges
-    1,859 faces
+    142 tiny portals
+    11,809 tree portals
+    3,200 sides visible
+    3,200 makefaces
+      932 merged
+      271 subdivided
+    1,422 nodes pruned
+    7 tiny portals
+      606 player-occupiable leaves
+      606 clusters of leaves
+    1,563 vis portals
+      749 SOLID leafs
+      606 EMPTY leafs
+    1,355 leafs total
+    24 max tree height
+    13 avg tree height
+    1,803 edges added by tjunctions
+    2,284 faces optimized through MWT
+    6,405 triangles computed from MWT
+      461 faces created via optimization of MWT triangles
+    6,343 edges
+    3,000 faces
 Processing hull 1...
 Processing hull 2...
 WARNING: worldspawn at 0 0 0 has long value for key wad (length 191 >= 127)
@@ -84,21 +85,21 @@ Wrote dmprisonbreak.bsp
 
 count   lump name    byte size 
       1 models               64
-    630 planes            12600
-   2069 vertexes          24828
-    610 nodes             14640
-     20 texinfos            800
-   1859 faces             37180
-   2910 clipnodes         23280
-    312 leafs              8736
-   2254 marksurfaces       4508
-   4110 edges             16440
-   8038 surfedges         32152
+   1472 planes            29440
+   3323 vertexes          39876
+   1354 nodes             32496
+     25 texinfos           1000
+   3000 faces             60000
+   4723 clipnodes         37784
+    607 leafs             16996
+   3470 marksurfaces       6940
+   6344 edges             25376
+  12660 surfedges         50640
       6 textures          60068
         lightdata             0
         visdata               0
-        entdata             893
+        entdata            3145
 
-1.138s seconds elapsed
+1.751s seconds elapsed
 
 
