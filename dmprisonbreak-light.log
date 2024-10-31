@@ -1,0 +1,31 @@
+---- light / ericw-tools 2.0.0-alpha8-26-ged62ec10 ----
+LoadBSPFile: 'dmprisonbreak.bsp'
+BSP is version Quake BSP bsp29
+INFO: using built-in palette.
+img::ConvertTextures: WARNING: invalid size data for 
+Loading extended texinfo flags from dmprisonbreak.texinfo.json...
+127 entities read, 66 are lights.
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+Embree_TraceInit: Embree version: 3.12.1
+Embree_TraceInit: 
+	8 sky faces
+	4957 solid faces
+	217 filtered faces
+	0 shadow-casting skip faces
+SetupLights: 66 initial lights
+SetupLights: 66 after surface lights
+SetupLights: 66 after jittering
+Final count: 66 lights, 0 suns in use.
+0 surface light points in use.
+lightmap size (total): 109776
+Lighting Completed.
+
+0 switchable light styles (32 max)
+Writing dmprisonbreak.bsp as Quake BSP bsp29
+0.157s seconds elapsed
+0 empty lightmaps
+
+
