@@ -3,7 +3,7 @@
 --- Options Summary ---
     "nocolor" was set to "1" (from command line)
 
-LoadBSPFile: 'dmprisonbreak.bsp'
+LoadBSPFile: 'dmPrisonBreak.bsp'
 BSP is version Quake BSP bsp29
 INFO: using built-in palette.
   1145 leafs
@@ -14,9 +14,9 @@ Calculating Full Vis:
 Expanding clusters...
 average leafs visible: 313
 c_noclip: 0
-c_chains: 17535610
-visdatasize:131394  compressed from 164880
-Writing dmprisonbreak.bsp as Quake BSP bsp29
-4.76s elapsed
+c_chains: 17542556
+visdatasize:131395  compressed from 164880
+Writing dmPrisonBreak.bsp as Quake BSP bsp29
+4.32s elapsed
 
 

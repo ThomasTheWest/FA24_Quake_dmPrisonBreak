@@ -1,9 +1,9 @@
 ---- light / ericw-tools 2.0.0-alpha8-26-ged62ec10 ----
-LoadBSPFile: 'dmprisonbreak.bsp'
+LoadBSPFile: 'dmPrisonBreak.bsp'
 BSP is version Quake BSP bsp29
 INFO: using built-in palette.
 img::ConvertTextures: WARNING: invalid size data for 
-Loading extended texinfo flags from dmprisonbreak.texinfo.json...
+Loading extended texinfo flags from dmPrisonBreak.texinfo.json...
 127 entities read, 66 are lights.
 
 --- Options Summary ---
@@ -24,8 +24,8 @@ lightmap size (total): 109776
 Lighting Completed.
 
 0 switchable light styles (32 max)
-Writing dmprisonbreak.bsp as Quake BSP bsp29
-0.157s seconds elapsed
+Writing dmPrisonBreak.bsp as Quake BSP bsp29
+0.143s seconds elapsed
 0 empty lightmaps
 
 
